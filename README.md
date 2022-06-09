@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js** and **Blockchain Development**
 
 - 💬 Ask me about **React, Framer Motion and CSS**
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iigunchev&show_icons=true&locale=en" alt="iigunchev" /></p>
